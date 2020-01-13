@@ -22,8 +22,7 @@ return ("done");
 }
 
 
-//create function, doWhileLoop
-//input: integer
+
 
 var i = 0;
  
